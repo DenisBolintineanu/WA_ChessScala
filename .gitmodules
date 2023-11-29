@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/andre-koe/WA-ChessScala-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/DenisBolintineanu/WA_ChessScala_Backend.git
